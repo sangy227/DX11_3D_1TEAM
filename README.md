@@ -1,11 +1,12 @@
-DirectX11 3D를 이용한 Death's Door 팀 포트폴리오<br/>
-시연 영상 : https://youtu.be/5DhapIJo9Ls<br/>
-노션 주소 : https://www.notion.so/84a7600a6ff04e56b82caee0c9f53616?v=230d24f9a0734c39bdf0155b7f7252b4&pvs=4<br/>
-<br/>
-제작 인원 : 4명<br/>
-제작 기간 : 2023/08/08 ~ 2023/10/16<br/>
-<br/>
-김현모 - 엔진 개발<br/>
-김상연 - 플레이어 / 몬스터<br/>
-김영진 - 맵 기믹 / UI<br/>
-김지형 - 물리 & 충돌 / 컷씬<br/>
+# 데스도어 팀 모작
+
+전체 파일 드라이브 링크 : https://drive.google.com/file/d/1_TEwPjWBT4V7qArn5ZlTvG70cw0Ea-WI/view?usp=sharing  
+
+노션 링크 : https://www.notion.so/772e0cb6744b4ce3804d766b7efe5b42?v=d197a55edf59448bb07d96dce39efda4
+<div align="center">[유튜브 플레이 링크]</div> 
+
+[![Video Label](http://img.youtube.com/vi/QFDUSIE5G-M/0.jpg)](https://youtu.be/QFDUSIE5G-M)  
+
+</br></br></br></br></br>
+
+![데스도어 버그](https://github.com/sangy227/DirectX11_3D_Team/assets/55933570/2b13ff8b-195d-42c4-8d79-b04e887eac95)
