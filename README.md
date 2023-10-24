@@ -26,6 +26,7 @@
 ![10](https://github.com/sangy227/sangy227/assets/55933570/108caa29-d9f7-4a46-b9c3-7cd76efa1aac)
 ![11](https://github.com/sangy227/sangy227/assets/55933570/36941613-f66d-44d6-a516-b3400a105585)
 ![12](https://github.com/sangy227/sangy227/assets/55933570/252abf53-c676-4972-bc92-5f2ff95f6e4a)
+![15](https://github.com/km841/DX11_3D_1TEAM/assets/56809638/fabfc094-647e-4b27-80b8-56c47de44261)<br/>
 ![13](https://github.com/sangy227/sangy227/assets/55933570/a2d9601e-a2b5-4934-b8c0-0bfefd2ece17)
 ![14](https://github.com/sangy227/sangy227/assets/55933570/c1eaa9ce-2240-4658-a6f1-afdf4166bdd7)
 ![cutscene1](https://github.com/sangy227/sangy227/assets/55933570/d1b08dbc-4756-475d-8d4b-10fc45776ece)
